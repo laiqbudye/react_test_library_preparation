@@ -14,6 +14,6 @@ Jest:-
   import { render, screen } from '@testing-library/react';
   
   here,
-    render - render function actually renders a component on the testing dom.
-    screen - by using this we can select components to test
+    render - render function actually renders a component on the testing dom.  (creates a virtual dom)
+    screen - by using this we can select components to test  (access a virtual dom)
   
