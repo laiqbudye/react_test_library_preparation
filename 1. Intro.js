@@ -1,7 +1,7 @@
 RTL:- 
   React Testing Library is a library which allows us to test our application. It comes by default with create-react-app.
   
-  IT PROVIDES VIRTUAL DOM FOR TEST. (i.e we can render a component on virtual dom using render method from RTL)
+  IT PROVIDES VIRTUAL DOM FOR TEST. (i.e we can render a component on virtual dom using render method from RTL)  // it allows to test without using actual browser
   It also provides a way to retrieve these components from virtual dom. (i.e we can retrieve components using screen api from RTL)
   It also provides a wat to interact with elements. (i.e we can click on element using RTL)
 
@@ -33,3 +33,7 @@ Jest:-
     });
 
 
+
+Test Driven Develpment
+  is a mode of development where test cases are written before writing actual implementation code.
+  then code is written to pass test cases. 
